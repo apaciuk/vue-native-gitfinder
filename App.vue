@@ -1,7 +1,6 @@
 <template>
-  <view class="statusbar"></view>   
+<view class="statusbar">Github Finder</view> 
 </template>
-
 <style>
 .container {
   background-color: white;
@@ -14,6 +13,4 @@ background-color: aqua;
 height: 20px;
 }
 </style>
-
-<view class="statusbar"></view>   
 </template>
